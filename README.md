@@ -17,7 +17,7 @@ Here's some of my projects I think are pretty neat:
   except a lot less popular :D
 - [Pandemic DDD](https://github.com/uozuAho/pandemic_ddd). A C# implementation 
   of the [Pandemic board game](https://en.wikipedia.org/wiki/Pandemic_(board_game)),
-  using some tactical Domain-Driver Design (DDD) concepts. Featured in a couple
+  using some tactical Domain-Driven Design (DDD) concepts. Featured in a couple
   of my blog posts:
     - [Learning DDD by implementing pandemic](https://iamwoz.com/blog/20210924_learning_ddd_by_implementing_pandemic/)
     - [Making C# go fast](https://iamwoz.com/blog/20230330_making_csharp_go_fast/)
