@@ -2,8 +2,7 @@
 Howdy, I'm Warwick. I chuck all my code here, so please excuse the mess.
 
 My blog: https://iamwoz.com/
-
-I'm looking for work! See https://www.linkedin.com/in/warwick-stone-496b4465/
+Linkedin: https://www.linkedin.com/in/warwick-stone-496b4465/
 
 Code used across all my repos:
 
